@@ -1,0 +1,4 @@
+#Mon Jun 24 09:38:57 BRT 2019
+base.0=C\:\\Sistema\\telalog\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
